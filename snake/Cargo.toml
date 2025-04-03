@@ -1,0 +1,11 @@
+[package]
+name = "snake"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+crossterm = "0.28.1"
+pancurses = "0.17.0"
+termion = "4.0.3"
+tree = "0.4.1"
+tui = "0.19.0"
